@@ -1,0 +1,304 @@
+ChestPain,MaxHeartRate,STDepression,ExerciseAngina,HeartDisease
+Typical Angina,Medium,High,No,0
+Asymptomatic,Low,Low,Yes,1
+Asymptomatic,Low,High,Yes,1
+Non-anginal Pain,High,High,No,0
+Atypical Angina,High,Low,No,0
+Atypical Angina,High,Low,No,0
+Asymptomatic,High,High,No,1
+Asymptomatic,High,Low,Yes,0
+Asymptomatic,Medium,Low,No,1
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Medium,Low,No,0
+Atypical Angina,Medium,Low,No,0
+Non-anginal Pain,Medium,Low,Yes,1
+Atypical Angina,High,Zero,No,0
+Non-anginal Pain,High,Low,No,0
+Non-anginal Pain,High,High,No,0
+Atypical Angina,High,Low,No,1
+Asymptomatic,High,Low,No,0
+Non-anginal Pain,Medium,Low,No,0
+Atypical Angina,High,Low,No,0
+Typical Angina,Medium,High,Yes,0
+Typical Angina,High,Low,No,0
+Atypical Angina,High,High,No,1
+Non-anginal Pain,High,High,No,1
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,Medium,High,No,0
+Non-anginal Pain,High,Zero,No,0
+Typical Angina,Low,High,No,0
+Asymptomatic,High,Low,No,0
+Asymptomatic,Low,High,Yes,1
+Typical Angina,Medium,High,No,0
+Asymptomatic,High,Low,Yes,1
+Non-anginal Pain,Medium,Zero,No,1
+Asymptomatic,High,Low,No,0
+Non-anginal Pain,High,Low,Yes,0
+Asymptomatic,High,Zero,No,0
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Low,Low,Yes,1
+Asymptomatic,Medium,Low,Yes,1
+Non-anginal Pain,Medium,Low,Yes,0
+Asymptomatic,Low,Low,No,1
+Typical Angina,High,Low,Yes,0
+Atypical Angina,High,Low,No,0
+Non-anginal Pain,Medium,High,No,0
+Asymptomatic,High,Zero,No,1
+Non-anginal Pain,High,High,No,1
+Non-anginal Pain,Low,Low,No,0
+Asymptomatic,Low,High,No,1
+Non-anginal Pain,Medium,Low,No,0
+Non-anginal Pain,Medium,Low,No,0
+Atypical Angina,High,Zero,No,0
+Asymptomatic,Medium,Low,No,0
+Asymptomatic,Medium,Zero,No,1
+Atypical Angina,High,Zero,No,0
+Asymptomatic,Medium,Low,Yes,1
+Asymptomatic,Low,High,Yes,1
+Non-anginal Pain,High,Low,No,1
+Asymptomatic,Medium,Zero,No,1
+Non-anginal Pain,Medium,Low,No,0
+Typical Angina,Low,Low,Yes,0
+Asymptomatic,Medium,Low,Yes,1
+Non-anginal Pain,High,Low,Yes,0
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Low,Low,No,1
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,Medium,High,No,1
+Non-anginal Pain,High,High,No,0
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,Medium,High,No,1
+Non-anginal Pain,Medium,Low,No,0
+Asymptomatic,High,Low,No,1
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Medium,Low,No,1
+Asymptomatic,High,Zero,No,1
+Non-anginal Pain,Medium,Low,No,0
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,Medium,Low,No,0
+Atypical Angina,High,Low,No,0
+Asymptomatic,Low,Low,Yes,1
+Asymptomatic,Medium,High,Yes,0
+Asymptomatic,Medium,Low,No,0
+Non-anginal Pain,High,Zero,No,0
+Non-anginal Pain,Medium,High,Yes,1
+Atypical Angina,High,Low,No,0
+Non-anginal Pain,High,Zero,No,0
+Non-anginal Pain,Medium,Zero,No,0
+Non-anginal Pain,Low,Zero,No,0
+Asymptomatic,High,Zero,No,0
+Non-anginal Pain,Medium,Low,No,0
+Asymptomatic,Medium,Low,No,0
+Asymptomatic,Medium,High,No,1
+Non-anginal Pain,Medium,High,No,0
+Non-anginal Pain,High,Low,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,High,Zero,Yes,1
+Asymptomatic,Medium,Low,Yes,1
+Asymptomatic,Medium,High,No,1
+Atypical Angina,Medium,Low,No,0
+Asymptomatic,High,Zero,No,0
+Asymptomatic,High,Zero,No,0
+Typical Angina,High,Zero,No,0
+Asymptomatic,Medium,Zero,No,0
+Non-anginal Pain,Medium,Zero,No,0
+Non-anginal Pain,Medium,High,No,1
+Atypical Angina,Medium,Zero,No,0
+Asymptomatic,High,Zero,Yes,1
+Non-anginal Pain,Medium,Low,No,1
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Medium,Low,No,1
+Asymptomatic,Medium,Low,Yes,1
+Asymptomatic,Medium,Low,Yes,1
+Typical Angina,High,Zero,No,0
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,Low,Low,No,1
+Atypical Angina,Medium,Zero,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,High,Low,No,0
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Low,High,No,1
+Asymptomatic,Medium,Zero,Yes,1
+Asymptomatic,Medium,High,No,1
+Non-anginal Pain,Medium,Low,Yes,0
+Asymptomatic,Low,High,Yes,1
+Typical Angina,High,Low,No,1
+Atypical Angina,High,Low,No,0
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Low,High,Yes,1
+Atypical Angina,High,Zero,No,0
+Asymptomatic,High,Zero,No,0
+Non-anginal Pain,Medium,Low,No,0
+Non-anginal Pain,Medium,Zero,Yes,0
+Atypical Angina,High,Zero,No,0
+Asymptomatic,High,Zero,Yes,0
+Non-anginal Pain,High,Low,No,0
+Atypical Angina,High,Low,No,0
+Asymptomatic,Low,High,Yes,1
+Atypical Angina,Low,Low,No,1
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,High,High,No,0
+Atypical Angina,High,Zero,Yes,0
+Typical Angina,Medium,Low,No,1
+Atypical Angina,High,Zero,No,0
+Non-anginal Pain,Medium,High,Yes,1
+Non-anginal Pain,Medium,Low,Yes,0
+Non-anginal Pain,Medium,Zero,No,1
+Asymptomatic,Low,Low,No,1
+Non-anginal Pain,High,Zero,No,0
+Atypical Angina,High,Zero,No,0
+Non-anginal Pain,High,Zero,No,0
+Typical Angina,High,Low,No,0
+Asymptomatic,Low,Low,No,0
+Non-anginal Pain,High,High,No,0
+Asymptomatic,Medium,Low,Yes,1
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Low,High,No,1
+Asymptomatic,High,High,Yes,1
+Asymptomatic,High,Zero,No,1
+Asymptomatic,High,Low,No,1
+Non-anginal Pain,Medium,Low,No,0
+Atypical Angina,Medium,Zero,No,0
+Asymptomatic,High,Zero,Yes,1
+Non-anginal Pain,Medium,High,No,0
+Asymptomatic,Low,Low,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,High,Zero,Yes,0
+Non-anginal Pain,High,Zero,No,0
+Atypical Angina,Medium,Zero,Yes,0
+Asymptomatic,Medium,Zero,Yes,1
+Atypical Angina,Medium,Zero,No,0
+Non-anginal Pain,Low,High,Yes,1
+Asymptomatic,Low,Zero,Yes,0
+Asymptomatic,Medium,Zero,Yes,1
+Asymptomatic,Medium,Low,No,0
+Asymptomatic,Medium,High,No,1
+Asymptomatic,Low,Low,Yes,1
+Asymptomatic,Medium,Low,No,0
+Asymptomatic,Low,High,Yes,1
+Non-anginal Pain,High,High,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,High,Low,No,1
+Asymptomatic,Medium,High,Yes,1
+Typical Angina,High,Low,No,0
+Typical Angina,Medium,High,No,0
+Asymptomatic,High,Zero,No,1
+Atypical Angina,High,Zero,No,0
+Non-anginal Pain,High,Low,No,0
+Atypical Angina,Low,Zero,Yes,1
+Atypical Angina,High,Zero,No,1
+Non-anginal Pain,Medium,High,No,1
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Medium,Low,Yes,1
+Asymptomatic,Low,High,No,1
+Non-anginal Pain,Low,Low,No,0
+Asymptomatic,Low,Low,Yes,1
+Typical Angina,Medium,Low,No,0
+Asymptomatic,Medium,Low,Yes,0
+Atypical Angina,High,Low,No,0
+Typical Angina,Low,Zero,No,1
+Asymptomatic,Medium,Zero,No,0
+Asymptomatic,Medium,Zero,Yes,0
+Non-anginal Pain,High,Low,No,0
+Non-anginal Pain,Medium,Low,No,0
+Asymptomatic,High,Zero,No,0
+Asymptomatic,Medium,Zero,Yes,1
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Low,Low,Yes,1
+Atypical Angina,Medium,Zero,No,0
+Asymptomatic,Medium,Low,Yes,1
+Non-anginal Pain,High,Zero,No,0
+Typical Angina,High,High,Yes,1
+Non-anginal Pain,High,High,No,0
+Asymptomatic,High,Low,Yes,1
+Asymptomatic,High,Zero,No,1
+Typical Angina,High,High,No,0
+Atypical Angina,High,Zero,No,0
+Asymptomatic,Medium,Zero,Yes,0
+Asymptomatic,Low,High,No,0
+Asymptomatic,High,Zero,No,0
+Non-anginal Pain,High,Zero,Yes,0
+Non-anginal Pain,High,Zero,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,High,High,Yes,1
+Atypical Angina,High,Low,No,0
+Asymptomatic,Medium,Low,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Low,Zero,Yes,1
+Asymptomatic,Medium,Low,Yes,1
+Non-anginal Pain,High,Low,No,0
+Asymptomatic,Low,High,Yes,1
+Non-anginal Pain,Low,Low,No,1
+Atypical Angina,Low,Low,Yes,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Medium,Low,No,1
+Atypical Angina,High,Zero,No,0
+Atypical Angina,High,Zero,No,0
+Atypical Angina,Medium,Zero,No,0
+Atypical Angina,High,Zero,No,0
+Asymptomatic,High,Zero,No,0
+Typical Angina,Medium,High,No,1
+Non-anginal Pain,Low,Zero,No,0
+Asymptomatic,Low,Low,No,1
+Asymptomatic,Medium,Low,No,1
+Asymptomatic,Low,Low,Yes,1
+Asymptomatic,High,Low,No,1
+Atypical Angina,Medium,Zero,No,0
+Asymptomatic,Low,Low,Yes,0
+Asymptomatic,Low,High,No,1
+Asymptomatic,Low,Low,Yes,0
+Non-anginal Pain,Medium,Low,No,0
+Asymptomatic,High,Low,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Medium,Low,No,0
+Non-anginal Pain,Low,Low,No,0
+Atypical Angina,Medium,Zero,No,0
+Atypical Angina,Medium,Low,No,1
+Non-anginal Pain,Medium,Low,No,0
+Atypical Angina,Medium,Zero,No,1
+Typical Angina,High,Low,No,0
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Medium,Low,Yes,1
+Non-anginal Pain,Medium,High,No,1
+Asymptomatic,High,Zero,No,1
+Non-anginal Pain,Medium,Zero,No,0
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Medium,High,No,0
+Asymptomatic,Low,High,Yes,1
+Asymptomatic,Low,High,No,0
+Typical Angina,High,Low,No,1
+Typical Angina,Medium,Low,No,0
+Non-anginal Pain,Medium,Zero,No,0
+Non-anginal Pain,Medium,Zero,No,0
+Atypical Angina,High,Zero,No,1
+Asymptomatic,Medium,Low,No,0
+Asymptomatic,Medium,High,Yes,1
+Non-anginal Pain,High,Zero,No,0
+Asymptomatic,Medium,High,Yes,1
+Atypical Angina,High,Zero,No,0
+Asymptomatic,High,Zero,No,1
+Asymptomatic,Medium,High,No,1
+Asymptomatic,Medium,High,Yes,1
+Atypical Angina,Medium,Low,No,0
+Atypical Angina,High,Zero,No,0
+Atypical Angina,High,Zero,No,0
+Non-anginal Pain,Medium,Low,No,1
+Atypical Angina,High,Low,No,0
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Medium,High,Yes,1
+Asymptomatic,Medium,Zero,Yes,1
+Atypical Angina,High,Zero,No,0
+Asymptomatic,Low,Low,No,1
+Asymptomatic,Low,Low,Yes,1
+Typical Angina,Medium,Low,No,1
+Asymptomatic,Medium,High,No,1
+Asymptomatic,Low,Low,Yes,1
+Atypical Angina,High,Zero,No,1
+Non-anginal Pain,High,Zero,No,0
